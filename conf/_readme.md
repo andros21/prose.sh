@@ -5,3 +5,5 @@ layout: aside
 nav:
    - source: https://github.com/andros21/prose.sh
 ---
+
+![profile](/profile.png)
