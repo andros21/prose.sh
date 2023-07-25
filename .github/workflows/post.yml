@@ -38,15 +38,15 @@ jobs:
           eval "$(ssh-agent -s)"
           ssh-add - <<< "${{ secrets.PROSE_PRV_KEY }}"
           # post changed files
-          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            scp -o StrictHostKeyChecking=no -v "$file" andros21@prose.sh:
-          done
+          scp -o StrictHostKeyChecking=no -v \
+            ${{ steps.changed-files.outputs.all_changed_files }} \
+            andros21@prose.sh:
       - name: purge prose.sh
         if: steps.changed-files.outputs.deleted_files_count > 0
         shell: bash
         run: |
           # purge deleted files
-          for file in ${{ steps.changed-files.outputs.deleted_files }}; do
-            cp /dev/null "$file"
-            scp -o StrictHostKeyChecking=no -v "$file" andros21@prose.sh:
-          done
+          for file in ${{ steps.changed-files.outputs.deleted_files }}; do cp /dev/null "$file"; done
+          scp -o StrictHostKeyChecking=no -v \
+            ${{ steps.changed-files.outputs.deleted_files }} \
+            andros21@prose.sh:
