@@ -21,12 +21,12 @@ scura?
 
 ![colm-dog-padraic](/colm-dog-padraic.jpg)
 
-**Colm**: _"Siamo pari con questo?"_\
+**Colm**: _Siamo pari con questo?_\
 Riferendosi alla casa incenerita alle spalle.\
-**Pádraic**: _"No, lo saremmo stati se tu fossi rimasto dentro"_\
+**Pádraic**: _No, lo saremmo stati se tu fossi rimasto dentro_\
 Pausa distensiva.\
-**Colm**: _"Grazie per esserti preso cura del mio cane stanotte"_\
-**Pádraic**: _"Figurati!"_\
+**Colm**: _Grazie per esserti preso cura del mio cane stanotte_\
+**Pádraic**: _Figurati!_\
 Risponde allontanandosi ...
 
 > Nella mia testa 💥 un boato in lontananza 😔
