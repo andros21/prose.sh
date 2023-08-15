@@ -24,7 +24,7 @@ all'ultimo dei tasti bianchi, George spoglia Ada dal suo
 vestito luttuoso, riaccendendo il suo pallido incarnato. Il
 tradimento amoroso, con conseguente metamorfosi di Ada,
 verrà pagato a caro prezzo: la preziosa tastiera sarà
-privata di un tasto, il 2 della mano destra.
+privata di un tasto, il 2° della mano destra.
 
 ![la-mano](/la-mano.jpg)
 
