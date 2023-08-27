@@ -28,7 +28,7 @@ jobs:
           fetch-depth: 0
       - name: get changes
         id: changed-files
-        uses: tj-actions/changed-files@a0585ff9904b77d046192a7846e59783d6ea287b
+        uses: tj-actions/changed-files@c860b5c47fa71f461da850094ef2f6e3d6514e44
       - name: post prose.sh
         if: steps.changed-files.outputs.all_changed_files_count > 0
         shell: bash
