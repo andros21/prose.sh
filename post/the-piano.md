@@ -8,8 +8,8 @@ date: 2023-08-14
 Un film ricco di simboli e contrasti: piano-forte,
 bianco-nero, silenzio-suono, amore-violenza, vita o morte.
 
-La voce, il corpo e l'anima di Ada sono indissolubilmente
-legate ad un piano. Ultimo ricordo di una rimpianta storia
+La voce, il corpo e l'anima di **Ada** sono indissolubilmente
+legate ad un **piano**. Ultimo ricordo di una rimpianta storia
 d'amore con il suo maestro di musica, nonché padre della
 figlia Flora.
 
@@ -18,7 +18,7 @@ piano) a trasferirsi lontano dalla cara Scozia. Approdano in
 una spiaggia neozelandese, in un piccolo villaggio popolato
 da Māori e coloni inglesi. Unica nota positiva del luogo,
 maledetto quel LA, è la relazione segreta, inizialmente
-obbligata, poi desiderata, con George, suo alunno di piano,
+obbligata, poi desiderata, con **George**, suo alunno di piano,
 vicino di casa del promesso sposo. Dai tasti neri sino
 all'ultimo dei tasti bianchi, George spoglia Ada dal suo
 vestito luttuoso, riaccendendo il suo pallido incarnato. Il
