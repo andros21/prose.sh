@@ -1,6 +1,6 @@
 ---
 title: Film dispatches 🔍🎞️
-description: Blog for film in 🇮🇹
+description: Blog for film 🇮🇹
 layout: aside
 nav:
    - "📂 source": https://github.com/andros21/prose.sh
