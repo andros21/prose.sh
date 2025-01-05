@@ -28,7 +28,7 @@ jobs:
           fetch-depth: 0
       - name: get changes
         id: changed-files
-        uses: tj-actions/changed-files@bab30c2299617f6615ec02a68b9a40d10bd21366
+        uses: tj-actions/changed-files@d6e91a2266cdb9d62096cebf1e8546899c6aa18f
         with:
           files_ignore: README.md
       - name: post prose.sh
