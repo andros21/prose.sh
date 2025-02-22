@@ -23,7 +23,7 @@ con un'eleganza senza pari. Un giallo in cui l'assassino è
 il film. Il quarto muro va frantumi: nessuna divisione
 tra finzione e realtà, tra loro, tra noi e la pellicola.
 
-![circuito-chiuso](/circuito-chiuso.jpg)
+![circuito-chiuso](/circuito-chiuso.png)
 
 Un film non è altro che una realtà alternativa, in cui ci
 specchiamo, in cui sia liberi di vivere anche solo per un
