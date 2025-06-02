@@ -10,6 +10,7 @@ name: post
       - README.md
       - '.github/workflows/*'
       - '.github/dependabot.yaml'
+      - '.github/CODEOWNERS'
 
 permissions:
   contents: read
